@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Indeed job listings</h2>
 
-![Indeed dataset header](https://github.com/luminati-io/Indeed-dataset-samples/blob/main/indeed-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/indeed">
+   <img src="https://github.com/luminati-io/Indeed-dataset-samples/blob/main/indeed-datasets.png" alt="indeed datasets" />
+</a>
 
 A Indeed dataset sample of over 1000 job listings. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -28,7 +30,7 @@ dataset which includes more than <b>26,500,000 companies</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+Dataset delivery type options: <b>Email, API download, Webhook, indeed S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
 
@@ -37,7 +39,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 <b>[Get the full Indeed dataset](https://brightdata.com/products/datasets/indeed)</b>.
 
 
-![Indeed dataset visual](https://github.com/luminati-io/Indeed-dataset-samples/blob/main/indeed-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/indeed">
+   <img src="https://github.com/luminati-io/Indeed-dataset-samples/blob/main/dataset-promotions.png" alt="indeed datasets" />
+</a>
 
 <h2>What are the Indeed datasets use cases?</h2>
 
